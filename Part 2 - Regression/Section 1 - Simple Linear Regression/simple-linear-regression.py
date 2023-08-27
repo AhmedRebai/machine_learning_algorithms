@@ -1,8 +1,5 @@
 # Simple Linear Regression
-"""
 
-@author: Majd
-"""
 
 # Importing the libraries
 import numpy as np
