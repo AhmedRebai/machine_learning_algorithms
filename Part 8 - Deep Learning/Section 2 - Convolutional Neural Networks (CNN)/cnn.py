@@ -1,8 +1,4 @@
 # Convolutional Neural Network
-"""
-
-@author: Majd
-"""
 
 # Setup a Python environment for Deep Learning 
 # Installing Theano
