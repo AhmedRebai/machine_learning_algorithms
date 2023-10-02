@@ -1,8 +1,5 @@
 #!/usr/bin/env python
-"""
 
-@author: Majd
-"""
 """
 a simple implementation of Apriori algorithm by Python.
 """
